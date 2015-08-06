@@ -21,7 +21,7 @@ def package_data(pkg, roots):
 
 setup(
     name='xblock-officemix',
-    version='0.1',
+    version='1.0.0',
     description='Office Mix XBlock',
     packages=[
         'officemix',
